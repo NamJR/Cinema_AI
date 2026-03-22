@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+opencv-python
+Pillow
+numpy
+onnxruntime
+python-multipart
+insightface==0.7.1
+requests
